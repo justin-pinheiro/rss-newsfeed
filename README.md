@@ -1,4 +1,4 @@
-# RSS to PDF
+# RSS News Feed
 
 ## Description
 
